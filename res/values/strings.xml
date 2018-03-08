@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name1">Android期末考试</string>
+    <string name="app_name2">注册结果</string>
+    <string name="first">请输入您的注册信息</string>
+    <string name="menu_settings">Settings</string>
+    <string name="name1">用户名：</string>
+    <string name="name2">您的姓名：</string>
+    <string name="password1">密\u0020\u0020\u0020码：</string>
+    <string name="passwordok">再次输入密码：</string>
+    <string name="phone">手机号：</string>
+    <string name="email">电子邮件：</string>
+    <string name="sex">性别：</string>
+    <string name="boy">男</string>
+    <string name="girl">女</string>
+    <string name="register">注册</string>
+    <string name="error_register">本页面的用户名，密码和再次输入密码必须填写完整!</string>
+    <string name="error_equal">两次输入的密码必须一致!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">退出</string>
+
+</resources>
